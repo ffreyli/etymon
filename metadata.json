@@ -1,0 +1,5 @@
+{
+  "name": "Etymon",
+  "description": "An interactive 3D etymology explorer that visualizes word origins, cognates, and historical timelines using a space-map aesthetic.",
+  "requestFramePermissions": []
+}
